@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Unity, Unity XR...**
 
-- 📫 How to reach me **miha.safranko@gmail.com**
+- 📫 How to reach me **miha@safko.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
