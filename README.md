@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safkom&label=Profile%20views&color=0e75b6&style=flat" alt="safkom" /> </p>
 
-- 🔭 I’m currently working on [CoreXR](https://github.com/safkom/CoreXR)
+- 🔭 I’m currently working on [CoreXR](https://corexr.si)
 
 - 🌱 I’m currently learning **about Web development**
 
