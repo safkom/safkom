@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **about Web development**
 
-- 👨‍💻 All of my projects are available at [safko.eu](https://safko.eu)
-
-- 💬 Ask me about **Unity, Unity XR...**
+- 💬 Ask me about **Web design, Unity...**
 
 - 📫 How to reach me **miha@safko.eu**
 
